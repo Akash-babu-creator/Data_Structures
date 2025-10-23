@@ -8,5 +8,9 @@ int main()
     r++;
     cout<<r<<endl;
     cout<<a<<endl;
+    int b=30;
+    r=b;
+    cout<<r<<endl;
+    cout<<a<<endl;
 
 }
