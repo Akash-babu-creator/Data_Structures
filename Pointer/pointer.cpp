@@ -61,9 +61,7 @@ int main()
     cout<<sizeof(p3)<<endl;
     cout<<sizeof(p4)<<endl;
     cout<<sizeof(p5)<<endl;
-    cout<<sizeof(p5)<<endl;
-    cout<<sizeof(p5)<<endl;
-    cout<<sizeof(p5)<<endl;
+    
     
 
 
