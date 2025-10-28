@@ -23,8 +23,9 @@ int main()
 {
     struct rec r;
     initialise(&r,15,20);
-    cout<<"area = "<<area(r)<<endl;
-    changelength(&r,50);
-    cout<<"changed length ="<<r.length<<endl;
+    printf("area =%d\n",area(r));
+    changelength(&r,30);
+    printf("changed length =%d",r.length);
+    
 
 }
